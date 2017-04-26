@@ -6,8 +6,8 @@ namespace SolutionsTest
     {
         static void Main(string[] args)
         {
-            SolveMeFirst.Solve();
-            SimpleArraySum.Solve();
+            //SolveMeFirst.Solve();
+            //SimpleArraySum.Solve();
 
         }
     }
