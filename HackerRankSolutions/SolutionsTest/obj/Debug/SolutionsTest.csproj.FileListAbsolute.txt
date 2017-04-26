@@ -1,8 +1,0 @@
-D:\Test_learning_projects\HackerRankCSharp\HackerRankSolutions\SolutionsTest\bin\Debug\SolutionsTest.exe.config
-D:\Test_learning_projects\HackerRankCSharp\HackerRankSolutions\SolutionsTest\bin\Debug\SolutionsTest.exe
-D:\Test_learning_projects\HackerRankCSharp\HackerRankSolutions\SolutionsTest\bin\Debug\SolutionsTest.pdb
-D:\Test_learning_projects\HackerRankCSharp\HackerRankSolutions\SolutionsTest\bin\Debug\WarmupChallenges.dll
-D:\Test_learning_projects\HackerRankCSharp\HackerRankSolutions\SolutionsTest\bin\Debug\WarmupChallenges.pdb
-D:\Test_learning_projects\HackerRankCSharp\HackerRankSolutions\SolutionsTest\obj\Debug\SolutionsTest.csprojResolveAssemblyReference.cache
-D:\Test_learning_projects\HackerRankCSharp\HackerRankSolutions\SolutionsTest\obj\Debug\SolutionsTest.exe
-D:\Test_learning_projects\HackerRankCSharp\HackerRankSolutions\SolutionsTest\obj\Debug\SolutionsTest.pdb
