@@ -8,7 +8,9 @@ namespace SolutionsTest
         {
             //SolveMeFirst.Solve();
             //SimpleArraySum.Solve();
-
+            //DiagonalDifference.Solve();
+            //PlusMinus.Solve();
+            Staircase.Solve();
         }
     }
 }

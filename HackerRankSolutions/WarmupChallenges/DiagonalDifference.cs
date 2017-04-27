@@ -18,7 +18,7 @@ namespace WarmupChallenges
                 a[a_i] = Array.ConvertAll(a_temp, Int32.Parse);
             }
 
-            Console.WriteLine(solution(n -1 ,a));
+            Console.WriteLine(solution(n ,a));
         }
 
         static int solution(int n, int[][] a)
@@ -32,7 +32,7 @@ namespace WarmupChallenges
 
             for (int i = 0; i < n; i++)
             {
-                res2 += a[n - i][i];
+                res2 += a[i][(n -1) - i];
             }
 
             return Math.Abs(res1 - res2);
