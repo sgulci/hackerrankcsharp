@@ -5,7 +5,11 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolutionsTest", "SolutionsTest\SolutionsTest.csproj", "{0A6EFCF4-6BB4-49A2-9CBC-7465EBF07657}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WarmupChallenges", "WarmupChallenges\WarmupChallenges.csproj", "{5D82AC86-955C-463C-80C5-2DA21E541111}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WarmupChallenges", "Algorithms\WarmupChallenges\WarmupChallenges.csproj", "{5D82AC86-955C-463C-80C5-2DA21E541111}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Implementation", "Algorithms\Implementation\Implementation.csproj", "{D9AEE3DE-9BBE-4092-B76A-D0ED7E194F71}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Algorithms", "Algorithms", "{3EDC9B52-B2BA-48CD-A093-90BF821CF07B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,8 +25,16 @@ Global
 		{5D82AC86-955C-463C-80C5-2DA21E541111}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5D82AC86-955C-463C-80C5-2DA21E541111}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D82AC86-955C-463C-80C5-2DA21E541111}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9AEE3DE-9BBE-4092-B76A-D0ED7E194F71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9AEE3DE-9BBE-4092-B76A-D0ED7E194F71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9AEE3DE-9BBE-4092-B76A-D0ED7E194F71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9AEE3DE-9BBE-4092-B76A-D0ED7E194F71}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5D82AC86-955C-463C-80C5-2DA21E541111} = {3EDC9B52-B2BA-48CD-A093-90BF821CF07B}
+		{D9AEE3DE-9BBE-4092-B76A-D0ED7E194F71} = {3EDC9B52-B2BA-48CD-A093-90BF821CF07B}
 	EndGlobalSection
 EndGlobal
