@@ -50,7 +50,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\WarmupChallenges\WarmupChallenges.csproj">
+    <ProjectReference Include="..\Algorithms\WarmupChallenges\WarmupChallenges.csproj">
       <Project>{5d82ac86-955c-463c-80c5-2da21e541111}</Project>
       <Name>WarmupChallenges</Name>
     </ProjectReference>
